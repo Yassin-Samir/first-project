@@ -121,7 +121,7 @@ img {
     grid-area: text;
   }
   .pic {
-    background-image: url("./images/image-product-mobile.jpg");
+    background-image: url("./image-product-mobile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     grid-row: 1/2;
@@ -140,7 +140,7 @@ img {
     -o-border-radius: 9px;
   }
   .pic {
-    background-image: url("./images/image-product-desktop.jpg");
+    background-image: url("./image-product-desktop.jpg");
     grid-column: 1/2;
   }
   .pic,
